@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/webpack-comment-remover-loader.svg)](https://badge.fury.io/js/webpack-comment-remover-loader)
 # webpack-comment-remover-loader
 A webpack loader that will remove JS comments from a file.
 
