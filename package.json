@@ -1,6 +1,6 @@
 {
   "name": "webpack-comment-remover-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A webpack loader that will remove JS comments from a file.",
   "main": "index.js",
   "scripts": {},
